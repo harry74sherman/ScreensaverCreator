@@ -1,4 +1,3 @@
-PFont f;
 import java.util.*; 
 LinkedList<Letter> letters = new LinkedList<Letter>(); 
   float r = random(250);
